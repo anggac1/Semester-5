@@ -11,4 +11,12 @@ No Data Next <br>
 5 _ 0<br>
 AV4; H1;T3 <br>
 
-
+**RNG AND RVG** <br>
+ACCEPTANCE REJECTION <br>
+Untuk X <br>
+1. Bangkitkan data U(0,1) -> Ui
+2. Xi = a +Ui (b-a); example a=-5 dan b=5
+3. PDF Xi atau f(x)
+4. f(x) / T(X)
+Untuk Y <br>
+1. 
