@@ -1,5 +1,5 @@
 ## Simulation Technique Notes <br>
-Link Asdos : http://its.id/m/MateriTeksimD2025
+Link Asdos : http://its.id/m/MateriTeksimD2025 <br>
 Array List <br>
 Time Event 10A 15A 23A 26D 33A 36D 39D 41D 44D <br>
 
