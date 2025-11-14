@@ -4,5 +4,4 @@ Link Collab : https://colab.research.google.com/drive/1-ZYxNPQzza3dAU7d8bxnE3GAE
 W5-W6 : https://colab.research.google.com/drive/1yc-jYfMUs4pcrnS5lLZ2hn_9ndyFxkCg?usp=sharing <br>
 
 W12 : https://colab.research.google.com/drive/1joyruDTQuQ4fu2ReWGQT_BegInUdPoM2?usp=sharing <br>
-
-
+W12 ASDOS : https://drive.google.com/file/d/1gkATfBvftvZeBMfXRQhlglNiG8deHCsT/view?usp=sharing <br>
