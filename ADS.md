@@ -5,3 +5,4 @@ W9: https://colab.research.google.com/drive/1AZCb2C82vSwDIPRE48a19kXpI733WorJ?us
 W12 : https://colab.research.google.com/drive/1joyruDTQuQ4fu2ReWGQT_BegInUdPoM2?usp=sharing <br>
 W12 ASDOS : https://drive.google.com/file/d/1gkATfBvftvZeBMfXRQhlglNiG8deHCsT/view?usp=sharing <br>
 W13 - SETAR : https://drive.google.com/file/d/1KgXmCHbC_eLyKphsaAP9IhQnR7N21tQG/view?usp=sharing <br>
+W14 : https://colab.research.google.com/drive/1eznQCZ2j9QrUcalhl5_-xK5LQ-Ib2Loq?usp=sharing
